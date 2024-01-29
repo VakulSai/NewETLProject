@@ -1,0 +1,2 @@
+CREATE TABLE Persons(ID int, LastName varchar(255), FirstName varchar(55),Address varchar(255),City varchar(255)
+);
